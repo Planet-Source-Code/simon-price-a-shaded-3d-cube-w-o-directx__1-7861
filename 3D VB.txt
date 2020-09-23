@@ -1,0 +1,5 @@
+3D VB - By Simon Price - 3D in Pure VB Code - No Direct-X or OpenGL!
+
+This program allows you to spin a 3D cube in real-time at speeds of over 50 frames per second! All this, and it doesn't use DirectX or or OpenGL - yep, pure 3D code here. The source code is included so if you do copy or learn from it and it results in a similar program, I'd appreciate it if you put my name and website on your program. The URL is www.hispalace.fsbusiness.co.uk, and if you send me your program (with code - that's fair since I have given you my code) I'll put it on the website. 
+
+If you are interested in making games in VB then that is what my website specialises in (both 3D and 2D) so visit  www.hispalace.fsbusiness.co.uk to download loads of quality games and source code.
